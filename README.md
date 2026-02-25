@@ -15,16 +15,7 @@ cd build
 cmake ..
 cmake --build . --config Release
 ```
-## Usage
 
-### Using the C++ code
-
-Refer to the following to use the compiled files:
-
-```shell
-./build/cameraCalibration
-./build/cameraCalibrationWithUndistortion
-```
 
 ### Using the python code
 
@@ -35,12 +26,3 @@ python3 cameraCalibration.py
 python3 cameraCalibrationWithUndistortion.py
 ```
 
-# AI Courses by OpenCV
-
-Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/courses/) is a great place to start. 
-
-<a href="https://opencv.org/courses/">
-<p align="center"> 
-<img src="https://learnopencv.com/wp-content/uploads/2023/01/AI-Courses-By-OpenCV-Github.png">
-</p>
-</a>
