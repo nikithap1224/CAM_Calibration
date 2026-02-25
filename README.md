@@ -6,16 +6,6 @@
 
 Calibrate your camera using OpenCV.
 
-## Using the C++ code
-### Compilation
-To compile the `cameraCalibration.cpp`  and `cameraCalibrationWithUndistortion.cpp` code files, use the following:
-```shell
-mkdir build
-cd build
-cmake ..
-cmake --build . --config Release
-```
-
 
 ### Using the python code
 
